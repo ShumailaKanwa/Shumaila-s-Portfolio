@@ -1,0 +1,61 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.header-section {
+    padding: 100px 0;
+    background: #1b1b1b;
+    color: #fff;
+}
+
+header h1 {
+    font-size: 48px;
+    font-weight: bold;
+}
+
+header p {
+    font-size: 24px;
+    margin: 10px 0 20px;
+}
+
+header .btn {
+    font-size: 20px;
+}
+
+section {
+    padding: 60px 0;
+}
+
+/* Skills */
+.skill i {
+    color: #101111;
+}
+
+.skill p {
+    font-weight: bold;
+}
+
+/* Projects */
+.project {
+    margin: 20px 0;
+    padding: 20px;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+}
+
+.project img {
+    width: 100%;
+    height: auto;
+}
+
+/* Contact Form */
+.contact-form .form-group {
+    margin-bottom: 20px;
+}
+
+/* Footer */
+footer {
+    background: #333;
+    color: #fff;
+}
